@@ -1,0 +1,6 @@
+img.img-responsive {
+    border-width: 5px;
+    border-style: solid;
+    border-color: darkcyan;
+    border-radius: 10px;
+}
